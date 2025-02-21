@@ -1,3 +1,3 @@
 ## Instructions
 
-NodeJs Version: 18.17.0
+NodeJs Version: >= 18.17.0

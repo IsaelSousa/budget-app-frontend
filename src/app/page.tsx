@@ -3,7 +3,7 @@ import Payload from "@/mock/data";
 
 export default function Home() {
     return (
-        <div>
+        <div className="flex flex-wrap m-4">
             {Payload.modules.map((vl, idx) => <Card key={idx} text={vl} />)}
         </div>
     );
